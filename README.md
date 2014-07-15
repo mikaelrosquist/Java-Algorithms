@@ -1,8 +1,8 @@
 # Algorithms and data structures
 
-In this folder there are solutions to different algorithm problems which we were assigned to solve in a course in algorithms and data structures in university.
+In this folder there are solutions to different algorithm problems which we were assigned to solve in a course in algorithms and data structures.
 
-This course taught me how to:
+The course taught me how to:
 - Analyze data structures and algorithms regarding correctness and efficiency.
 - Discuss the appropriateness, effectiveness, etc. of two or more solutions to the same problem.
 - Implement and document common data structures and algorithms as part of a class library.
